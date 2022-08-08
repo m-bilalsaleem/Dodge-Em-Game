@@ -20,7 +20,7 @@ then run:
   make
 ```
 on terminal and it will create object files and game as out file.
-To run the game run the command: 
+To run the game, write the command: 
 
 ```
 ./game
